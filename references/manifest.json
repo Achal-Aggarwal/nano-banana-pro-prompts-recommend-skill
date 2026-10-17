@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-17T03:54:53.217Z",
-  "totalPrompts": 15789,
+  "updatedAt": "2026-10-17T15:16:38.207Z",
+  "totalPrompts": 15790,
   "categories": [
     {
       "slug": "profile-avatar",
@@ -36,7 +36,7 @@
       "slug": "product-marketing",
       "title": "Product Marketing",
       "file": "product-marketing.json",
-      "count": 5756
+      "count": 5757
     },
     {
       "slug": "ecommerce-main-image",
